@@ -1,0 +1,24 @@
+.offline {
+  color: rgb(205, 33, 33);
+}
+.online {
+  color: rgb(9, 141, 49);
+}
+
+.listItem {
+  border: 2px solid #676565;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  width: 100px;
+  height: auto;
+  padding: 20px 10px;
+  background-color: rgba(253, 255, 213, 0.763);
+}
+.friendName {
+  color: #2a2828;
+}
