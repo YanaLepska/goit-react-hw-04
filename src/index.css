@@ -34,5 +34,7 @@ img {
 }
 
 body {
+  text-align: center;
+  background-color: rgb(233, 233, 244);
   font-family: "Arial", sans-serif;
 }

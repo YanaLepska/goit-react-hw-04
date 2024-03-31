@@ -1,0 +1,23 @@
+.LoadMoreBtn {
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: 0.64px;
+  color: rgb(24, 24, 112);
+  background: rgb(170, 153, 215);
+  cursor: pointer;
+  display: inline-flex;
+  padding: 16px 32px;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  border-radius: 4px;
+  border: 1px solid rgb(46, 46, 186);
+  height: 32px;
+  box-shadow: 0px 4px 9px 0px rgba(0, 0, 0, 0.75);
+  margin-bottom: 40px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.LoadMoreBtn:hover {
+  background-color: rgb(99, 224, 224);
+}
